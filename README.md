@@ -1,0 +1,1 @@
+This is my first ever [Git] (https://alx-intranet.hbtn.io/rltoken/pzcVcHJUkehzu3oJOJgZ6A) project and I'm so *excited* about it because it is structured and designed to help a beginner like me get familiar with **Git** and **Github**. 
